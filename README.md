@@ -49,14 +49,15 @@ AI-powered website builder that generates website layouts and content from
 natural-language prompts.
 
 **Tech:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, AI APIs
-🔗 [View Project]((https://github.com/aarya22288/AI-Website-Builder))
+🔗 [View Project](https://github.com/aarya22288/AI-Website-Builder)
 
 ### 💬 Lumix Chat Application
 Developed backend functionality for a real-time chat application during my
 Backend Developer internship.
 
 **Tech:** Node.js, Express.js, Socket.io, MongoDB, REST APIs
-🔗 [View Project]((https://github.com/Pranav-1308/Lumix))
+
+🔗 [View Project](https://github.com/Pranav-1308/Lumix)
 
 ---
 

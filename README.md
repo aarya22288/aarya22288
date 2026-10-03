@@ -49,12 +49,14 @@ AI-powered website builder that generates website layouts and content from
 natural-language prompts.
 
 **Tech:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, AI APIs
+🔗 [View Project]([YOUR_GITHUB_REPO_LINK](https://github.com/aarya22288/AI-Website-Builder))
 
 ### 💬 Lumix Chat Application
 Developed backend functionality for a real-time chat application during my
 Backend Developer internship.
 
 **Tech:** Node.js, Express.js, Socket.io, MongoDB, REST APIs
+🔗 [View Project]([YOUR_GITHUB_REPO_LINK](https://github.com/Pranav-1308/Lumix))
 
 ---
 
@@ -76,10 +78,7 @@ Backend Developer internship.
 
 ## 📫 Connect With Me
 
-[LinkedIn](www.linkedin.com/in/
-aarya-patel-27076a280
-) •
-[GitHub](https://github.com/aarya22288) •
+[LinkedIn](https://www.linkedin.com/in/aarya-patel-27076a280/)
 
 <!--
 **aarya22288/aarya22288** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
